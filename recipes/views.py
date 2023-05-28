@@ -3,7 +3,7 @@ from django.shortcuts import render
 
 
 def home(request):
-    return HttpResponse('home 2')
+    return render(request, 'home.html')
 
 def episodio(request):
     return HttpResponse('episodio')

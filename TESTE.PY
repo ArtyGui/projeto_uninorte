@@ -1,5 +1,0 @@
-print('oi bb')
-print('oi artur')
-print("oi de novo")
-print('salve weslley')
-print("fala cmg bb")
